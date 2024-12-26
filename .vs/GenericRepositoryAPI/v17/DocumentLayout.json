@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|c:\\users\\ilqar\\desktop\\genericrepositorypatternapi\\genericrepositoryapi\\services\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|solutionrelative:services\\studentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|c:\\users\\ilqar\\desktop\\genericrepositorypatternapi\\genericrepositoryapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|c:\\users\\ilqar\\desktop\\genericrepositorypatternapi\\genericrepositoryapi\\genericrepositoryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|solutionrelative:genericrepositoryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|c:\\users\\ilqar\\desktop\\genericrepositorypatternapi\\genericrepositoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|c:\\users\\ilqar\\desktop\\genericrepositorypatternapi\\genericrepositoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|c:\\users\\ilqar\\desktop\\genericrepositorypatternapi\\genericrepositoryapi\\migrations\\20241225201117_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|solutionrelative:migrations\\20241225201117_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|c:\\users\\ilqar\\desktop\\genericrepositorypatternapi\\genericrepositoryapi\\dals\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|solutionrelative:dals\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|c:\\users\\ilqar\\desktop\\genericrepositorypatternapi\\genericrepositoryapi\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C6F1AA-2567-4076-96DA-0485BAB751CF}|GenericRepositoryAPI.csproj|solutionrelative:entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\Services\\StudentsService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentsService.cs",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\Services\\StudentsService.cs",
+              "RelativeToolTip": "Services\\StudentsService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:34:34.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:26:50.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepositoryAPI",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\GenericRepositoryAPI.csproj",
+              "RelativeDocumentMoniker": "GenericRepositoryAPI.csproj",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\GenericRepositoryAPI.csproj",
+              "RelativeToolTip": "GenericRepositoryAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T20:33:54.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T20:00:48.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:53:27.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241225201117_init.cs",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\Migrations\\20241225201117_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241225201117_init.cs",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\Migrations\\20241225201117_init.cs",
+              "RelativeToolTip": "Migrations\\20241225201117_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:11:17.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\DALs\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DALs\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\DALs\\AppDbContext.cs",
+              "RelativeToolTip": "DALs\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:46:31.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ilqar\\Desktop\\GenericRepositoryPatternAPI\\GenericRepositoryAPI\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:26:47.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
