@@ -1,7 +1,3 @@
-
-using GenericRepositoryAPI.DALs;
-using Microsoft.EntityFrameworkCore;
-
 namespace GenericRepositoryAPI
 {
     public class Program
@@ -16,6 +12,7 @@ namespace GenericRepositoryAPI
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddServices();
             builder.Services.AddDbContext<AppDbContext>(opt =>
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("MYConHome"));

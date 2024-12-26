@@ -1,5 +1,4 @@
-﻿using GenericRepositoryAPI.Services;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace GenericRepositoryAPI.Controllers
 {
@@ -8,15 +7,25 @@ namespace GenericRepositoryAPI.Controllers
     public class StudentsController : ControllerBase
     {
         public readonly IStudentsService _service;
-        public StudentsController(IStudentsService service)
+        public readonly IGroupService _groupservice;
+        public StudentsController(IStudentsService service, IGroupService groupService)
         {
             _service = service;
+            _groupservice = groupService;
         }
-        [HttpGet]
-        public async Task<IActionResult> GetAll(bool isTracking, params string[] includes)
+
+        [HttpGet("Students")]
+        public async Task<IActionResult> GetAll()
         {
-            var datas = await _service.GetAllStudents(isTracking, includes);
-            return Ok(datas);
+            List<Student> students = await _service.GetAllStudentsAsync();
+            return Ok(students);
+        }
+
+        [HttpGet("Groups")]
+        public async Task<IActionResult> GetAllGroups()
+        {
+            List<Group> groups = await _groupservice.GetAllGroupAsync();
+            return Ok(groups);
         }
         //[HttpGet("ByID")]
         //public async Task<IActionResult> GetById(int id)

@@ -1,23 +1,22 @@
 [
   {
     "ContainingType": "GenericRepositoryAPI.Controllers.StudentsController",
-    "Method": "GetAll",
-    "RelativePath": "api/Students",
+    "Method": "GetAllGroups",
+    "RelativePath": "api/Students/Groups",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "isTracking",
-        "Type": "System.Boolean",
-        "IsRequired": false
-      },
-      {
-        "Name": "includes",
-        "Type": "System.String[]",
-        "IsRequired": true
-      }
-    ],
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GenericRepositoryAPI.Controllers.StudentsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Students/Students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]
